@@ -1,0 +1,24 @@
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.body{
+    display: flex;
+    border: solid;
+    background-color: green;
+    justify-content: space-between;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color:yellowgreen;
+}
+
+.noname{
+    display: flex;
+    border: solid;
+    justify-content: space-evenly;
+}
